@@ -15,22 +15,8 @@ Backend: PHP
 Database: MySQL
 Server: XAMPP (Apache, PHP, MySQL)
 Installation
-Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/laundry-management-system.git
-cd laundry-management-system
-Set Up the Database:
-
-Launch XAMPP and start the Apache and MySQL services.
-Open phpMyAdmin and create a new database (e.g., laundry_db).
-Import the database file from the project (/database/laundry_db.sql) to set up the tables.
-Configure Database Connection:
-
-In your project files, locate the database configuration file (e.g., config.php) and update the database credentials as needed:
 php
-Copy code
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
