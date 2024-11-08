@@ -1,4 +1,5 @@
-Laundry Management System
+<h1>Laundry Management System</h1>
+
 Project Overview
 The Laundry Management System is a web-based application designed to streamline and automate laundry service operations, including order management, inventory tracking, billing, and report generation. This project aims to replace manual processes with an efficient, scalable, and user-friendly solution, reducing human errors and improving customer satisfaction.
 
